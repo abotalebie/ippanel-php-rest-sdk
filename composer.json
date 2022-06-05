@@ -1,8 +1,8 @@
 {
-    "name": "ippanel/php-rest-sdk",
+    "name": "abotalebie/ippanel-php-rest-sdk",
     "description": "IPPanel REST API client",
     "type": "library",
-    "homepage": "https://github.com/ippanel/php-rest-sdk",
+    "homepage": "https://github.com/abotalebie/ippanel-php-rest-sdk",
     "license": "BSD-2-Clause",
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -10,6 +10,10 @@
         {
             "name": "ippanel",
             "email": "dev@ippanel.com"
+        },
+        {
+            "name": "mostafa",
+            "email": "m.abotalebie@gmail.com"
         }
     ],
     "require": {
